@@ -19,3 +19,7 @@ flutter run
 ```
 
 See the video for notes on different `Platform`s like mobile, web, and desktop.
+
+## Flutter vs React Native
+
+<https://flutter.dev/docs/get-started/flutter-for/react-native-devs>
