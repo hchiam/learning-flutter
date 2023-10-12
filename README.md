@@ -23,3 +23,10 @@ See the video for notes on different `Platform`s like mobile, web, and desktop.
 ## Flutter vs React Native
 
 <https://flutter.dev/docs/get-started/flutter-for/react-native-devs>
+
+## other notes
+
+- why/how declarative: https://docs.flutter.dev/get-started/flutter-for/declarative
+- build a simple web app in DartPad (no downloads required) https://docs.flutter.dev/get-started/codelab-web
+- more codelabs and youtube videos: https://docs.flutter.dev/codelabs
+- tips for how to do CSS things in Flutter: https://docs.flutter.dev/get-started/flutter-for/web-devs
