@@ -27,6 +27,7 @@ See the video for notes on different `Platform`s like mobile, web, and desktop.
 ## other notes
 
 - why/how declarative: https://docs.flutter.dev/get-started/flutter-for/declarative
-- build a simple web app in DartPad (no downloads required) https://docs.flutter.dev/get-started/codelab-web
+- build a simple web app in DartPads (no downloads required) https://docs.flutter.dev/get-started/codelab-web
+  - ([troubleshooting: open it in Chrome and you might have to allow third-party cookies for the DartPads to work](https://dart.dev/tools/dartpad/troubleshoot))
 - more codelabs and youtube videos: https://docs.flutter.dev/codelabs
 - tips for how to do CSS things in Flutter: https://docs.flutter.dev/get-started/flutter-for/web-devs
